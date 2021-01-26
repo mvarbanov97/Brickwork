@@ -1,0 +1,12 @@
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\Momchil\source\repos\HackerRank-InterviewPreparationKit\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
